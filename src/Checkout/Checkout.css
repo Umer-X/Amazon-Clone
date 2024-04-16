@@ -1,0 +1,19 @@
+.checkout_add{
+    width: 100%;
+    margin-bottom: 10px;
+    height: 150px;
+}
+
+.checkout{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: rgb(232, 231, 231);
+    height: max-content;
+}
+
+.checkout_tittle{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
